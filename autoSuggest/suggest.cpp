@@ -1,3 +1,10 @@
+/**
+    
+    Created by: Newton Shahi Thakuri
+    Date: 2025 -05 - 25 
+
+*/
+
 #include <iostream>
 #include <vector>
 #include <random>
