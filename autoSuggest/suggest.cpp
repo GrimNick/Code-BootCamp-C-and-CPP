@@ -8,7 +8,7 @@ using namespace std;
 
 string fileName = "google-10000-english.txt";
 
-
+//compares to find if num exists in vector
 bool checkIfExist(int num, vector<int> addedIndex){
     if(addedIndex.empty()) return false;
 
@@ -18,6 +18,7 @@ bool checkIfExist(int num, vector<int> addedIndex){
     return false;;
 }
 
+//returns samlping using uniform distribution
 vector<string> sampleWords(){
     ifstream fileEng(fileName);
     if(!fileEng) cerr<<"No file of such name found :" <<fileName<<"\n";
@@ -47,7 +48,7 @@ vector<string> sampleWords(){
     return sampledWords;
 }
 
-
+//gives n gram from 2 to definition
 map<string, vector<string>> getn_grams(vector<string> words){
     map<string, vector<string>> n_grams;
     for(int j=0;j<words.size();j++){
@@ -65,24 +66,72 @@ map<string, vector<string>> getn_grams(vector<string> words){
     return n_grams;
 }
 
+
+
+vector<string> dictVectorizer(map<string, vector<string>> ngram,vector<string> keyWords){
+    vector<string> words;
+    for(int i=0;i<ngram.size();i++){
+        vector<string> col = ngram[keyWords[i]];
+            
+        for(int j=0;j<col.size();j++){
+            words.push_back(col[j]);
+        }
+    }
+    return words;
+}
+
+
+map<string, int> getFregMap(vector<string> allnWords){
+    map<string, int> FregMap;
+    for(int i =0; i < allnWords.size();i++){
+
+    }
+    return FregMap;
+}
+
 int main(){
     vector<string> words = sampleWords();
     cout<<"\n******** Sampled words are : *******\n" <<endl;
-    for(int i=0;i<words.size(); i++) cout<<words[i]<<",";
+    
+    //do words.size() to see all
+
+    for(int i=0;i<100; i++) cout<<words[i]<<",";
     cout<<"\n\n**** End of samppled words *****\n\n";
     map<string, vector<string>> ngram = getn_grams(words);
     cout<<"\n******** n-gram of words are : *******\n" <<endl;
 
-    for(int i=0;i<2;i++){
+    //do ngram.size() for displpaying all words n grams
+    for(int i=0;i<4;i++){
         vector<string> toDisplayString = ngram[words[i]];
-        cout<<words[i]<<"\t";
+        cout<<words[i]<<":\t";
         for(int j=0;j<toDisplayString.size();j++){
             cout<< toDisplayString[j]<<" | ";
         }
-        cout<<"\n";
+        cout<<"\n\n";
     }
 
     cout<<"\n\n**** End of n-gram of words *****\n\n";
+
+
+    vector<string> allnWords =  dictVectorizer(ngram,words);
+    cout<<"\n******** Vectorized n gram words are : *******\n" <<endl;
+    //do allnWords.size() to see all
+    for(int i =0;i<100;i++){
+        cout<<allnWords[i]<<" | ";
+    }
+
+    cout<<"\n\n**** End Vectorized n gram words *****\n\n";
+
+    map<string, int> freqNGram = getFregMap(allnWords);
+
+    cout<<"\n******** frequency of n gram words are : *******\n" <<endl;
+    //do allnWords.size() to see all
+    for(int i =0;i<100;i++){
+        cout<<allnWords[i]<<" | ";
+    }
+
+    cout<<"\n\n**** End frequency of n gram words *****\n\n";
+
 
     return 0;
 }
