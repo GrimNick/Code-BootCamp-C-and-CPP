@@ -1,4 +1,4 @@
-# Misspelled Word Detection in C/C++
+# Misspelled Word Detection in C++
 
 This problem requires us to simply comare input.txt with dictionary.txt to find words in input file which do not have any match to dictionary.txt words. This means it is misspelled. We are doing this with a limited set of words in dictionary and assuming it to be correct words.
 
