@@ -13,7 +13,7 @@ This bootcamp implements solutions for two core NLP tasks using basic vector alg
 
 ---
 
-  <img src="img/pg3.png" alt="pg1" width="800">
+  <img src="img/pg3.png" alt="pg1" width="500">
 
 ---
 
