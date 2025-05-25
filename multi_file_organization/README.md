@@ -5,12 +5,12 @@ This problem requires us to simply comare input.txt with dictionary.txt to find 
 ---
 
 <p align="center">
-  <img src="img/dict.png" alt="dict" width="800">
+  <img src="../img/dict.png" alt="dict" width="800">
 Image: Dictionary text snippet
 
 ---
 
-  <img src="img/input.png" alt="input" width="800">
+  <img src="../img/input.png" alt="input" width="800">
 Image: Input text snippet
 
 ---
@@ -24,7 +24,7 @@ The goal is to output all the words from the input text that are not present in 
 
 This problem has been solved and looks like this. (only 10 taken to not overshadow the entire console)
 <p align="center">
-  <img src="img/misspelled.png" alt="dict" width="800">
+  <img src="../img/misspelled.png" alt="dict" width="800">
 </p>
 
 ---
@@ -40,9 +40,10 @@ Then:
 ```math
 Sw = St - Sd
 
-This has been done by using the following function:
-
 ```
+
+
+This has been done by using the following function:
 
 ```bash
 // Sw = St - Sd; . number of mispelled words set
