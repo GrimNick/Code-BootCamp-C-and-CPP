@@ -32,7 +32,7 @@ This problem has been solved and looks like this. (only 10 taken to not overshad
 <p align="center">
   <img src="../img/inputOutput.png" alt="inputOut" width="500">
     
-<em>Image: Input and Output snippet</em>
+   <em>Image: Input and Output snippet</em>
 
 </p>
 
