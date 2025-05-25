@@ -1,0 +1,120 @@
+The articles in English are the definite article the and the indefinite articles a and an. The definite article is used when the speaker believes that the listener knows the identity of the noun's referent (because it is obvious, because it is common knowledge, or because it was mentioned in the same sentence or an earlier sentence). The indefinite article is used when the speaker believes that the listener does not have to be told the identity of the referent. No article is used in some noun phrases.
+
+English grammar requires that, in most cases, a singular, countable noun phrase start with a determiner.[1] For example, I have a box is OK, but *I have box is not. The most common determiners are the articles the and a(n), which specify the presence or absence of definiteness of the noun. Other possible determiners include words like this, my, each and many. There are also cases where no determiner is required, as in the sentence John likes fast cars, where neither John nor fast cars includes a determiner.
+
+The definite article the is used when the referent of the noun phrase is assumed to be unique or known from the context. For example, In the sentence The boy with glasses was looking at the moon, it is assumed that in the context the reference can only be to one boy and one moon. However, the definite article is not used:
+
+with generic nouns (plural or uncountable): cars have accelerators, happiness is contagious, referring to cars in general and happiness in general (compare the happiness I felt yesterday, specifying particular happiness);
+with most proper names: John, France, London, etc.
+The indefinite article a (before a consonant sound) or an (before a vowel sound) is used only with singular, countable nouns. It indicates that the referent of the noun phrase is one unspecified member of a class. For example, the sentence An ugly man was smoking a pipe does not specify the identity of the ugly man or pipe.
+
+When referring to a particular date, the definite article the is typically used.[2]
+
+He was born on the 10th of May.
+However, when referring to a day of the week, the indefinite article 'a' is used.
+
+He was born on a Thursday.
+No article is used with plural or uncountable nouns when the referent is indefinite (just as in the generic definite case described above). However, in such situations, the determiner some is often added (or any in negative contexts and in many questions). For example:
+
+There are apples in the kitchen or There are some apples in the kitchen;
+We do not have information or We do not have any information;
+Would you like tea? or Would you like some tea? and Would you like any tea? or Would you like some good tea?
+Additionally, articles are not normally used:
+
+in noun phrases that contain other determiners (my house, this cat, America's history), although one can combine articles with certain other determiners, as in the many issues, such a child (see English determiners § Combinations of determiners).
+with pronouns (he, nobody), although again certain combinations are possible (as the one, the many, the few).
+preceding noun phrases consisting of a clause or infinitive phrase (what you've done is very good, to surrender is to die).
+If it is required to be concise, e.g. in headlines, signs, labels, and notes, articles are often omitted along with certain other function words. For example, rather than The mayor was attacked, a newspaper headline might say just Mayor attacked.
+
+For more information on article usage, see the sections Definite article § Notes and § Indefinite article below. For more cases where no article is used, see Zero article in English.
+
+Contents
+1	Word order
+2	Definite article
+3	Abbreviations for "the" and "that"
+3.1	Ye form
+4	Indefinite article
+4.1	Distinction between a and an
+4.1.1	In other languages
+4.2	Pronunciation
+4.3	Etymology
+4.4	Usage
+4.5	Juncture loss
+5	Use of some
+6	Effect on alphabetical order
+7	In West Country English
+8	See also
+9	References
+10	External links
+Word order
+In most cases, the article is the first word of its noun phrase, preceding all other adjectives and modifiers.[3]
+
+[The little old red bag] held [a very big surprise].
+There are a few exceptions, however:
+
+Certain determiners, such as all, both, half, double, precede the definite article when used in combination (all the team, both the girls, half the time, double the amount).
+The determiner such and exclamative what precede the indefinite article (such an idiot, what a day!).
+Adjectives qualified by too, so, as and how generally precede the indefinite article: too great a loss, so hard a problem, as delicious an apple as I have ever tasted, I know how pretty a girl she is.
+When adjectives are qualified by quite (particularly when it means "fairly"), the word quite (but not the adjective itself) often precedes the indefinite article: quite a long letter.
+See also English determiners § Combinations of determines and Determiners and adjectives.
+
+Definite article
+Main article: The
+The only definite article in English is the word the, denoting person(s) or thing(s) already mentioned, under discussion, implied, or otherwise presumed familiar to the listener or reader. The is the most commonly used word in the English language, accounting for 7% of all words used.[4]
+
+"The" can be used with both singular and plural nouns, with nouns of any gender, and with nouns that start with any letter. This is different from many other languages which have different articles for different genders and/or numbers.
+
+Abbreviations for "the" and "that"
+
+Barred thorn(after Ælfric)
+Since "the" is one of the most frequently used words in English, at various times short abbreviations for it have been found:
+
+Barred thorn: the earliest abbreviation, it is used in manuscripts in the Old English language. It is the letter þ, with a bold horizontal stroke through the ascender, and it represents the word þæt, meaning "the" or "that" (neuter nom. / acc.)
+þͤ and þͭ (þ with a superscript e or t) appear in Middle English manuscripts for "þe" and "þat" respectively.
+yͤ and yͭ are developed from þͤ and þͭ and appear in Early Modern manuscripts and in print (see Ye form below).
+Occasional proposals have been made by individuals for an abbreviation. In 1916, Legros & Grant included in their classic printers' handbook Typographical Printing-Surfaces, a proposal for a letter similar to Ħ to represent "Th", thus abbreviating "the" to ħe.[5] Why they did not propose reintroducing to the English language "þ", for which blocks were already available for use in Icelandic texts, or the yͤ form is unknown.
+
+Ye form
+In Middle English, the (þe) was frequently abbreviated as a þ with a small e above it, similar to the abbreviation for that, which was a þ with a small t above it. During the latter Middle English and Early Modern English periods, the letter thorn (þ) in its common script, or cursive, form came to resemble a y shape. As a result, the use of a y with an e above it (EME ye.svg) as an abbreviation became common. It can still be seen in reprints of the 1611 edition of the King James Version of the Bible in places such as Romans 15:29 or in the Mayflower Compact. Historically, the article was never pronounced with a y sound even when it was so written.
+
+Indefinite article
+The indefinite article of English takes the two forms: a and an. Semantically, theys can be regardd as meaning "one", usually without emphasis. They can be used only with singular countable nouns; for the possible use of some (or any) as an equivalent with plural and uncountable nouns, see Use of some below.
+
+Distinction between a and an
+The form an is used before words starting with a vowel sound, regardless of whether the word begins with a vowel letter.[6] This avoids the glottal stop (momentary silent pause) that would otherwise be required between a and a following vowel sound. Where the next word begins with a consonant sound, a is used. Examples: a box; an apple; an SSO (pronounced "es-es-oh"); an MP3 (pronounced "em-pee-three"); a HEPA filter (here, HEPA is an acronym, a series of letters pronounced as a word rather than as individual letters); an hour (the h is silent); a one-armed bandit (pronounced "won..."); an heir (pronounced "air"); an herb in American English (where the h is silent), but a herb in British English; "a unionized worker" but "an unionized particle". Before words beginning with /ju/, an was formerly widespread, e.g. an unicorn, an eulogy, but has largely been superseded by a since the 19th century.
+
+In older loan words of Latin or Greek provenance, initial h used to be silent in general, thus the use of an before such words was common and has survived to some extent to recent times even when the h has been restored in pronunciation. Some speakers and writers use an before a word beginning with the sound /h/ in an unstressed syllable: an historical novel, an hotel.[7] However, this usage is now less common.
+
+Some dialects, particularly in England (such as Cockney), silence many or all initial h sounds (h-dropping), and so employ an in situations where it would not be used in the standard language, like an 'elmet (standard English: a helmet).
+
+There used to be a distinction analogous to that between a and an for the possessive determiners my and thy, which became mine and thine before a vowel, as in mine eyes.[8]
+
+In other languages
+Other more or less analogous cases in different languages include the Yiddish articles "a" (אַ‎) and "an" (אַן‎) (used in essentially the same manner as the English ones), the Hungarian articles a and az (used the same way, except that they are definite articles; juncture loss, as described below, has occurred in that language too), and the privative a- and an- prefixes, meaning "not" or "without", in Greek and Sanskrit.
+
+Pronunciation
+Both a and an are usually pronounced with a schwa: /ə/, /ən/. However, when stressed (which is rare in ordinary speech), they are normally pronounced respectively as /eɪ/ (to rhyme with day) and /æn/ or /eən/ (to rhyme with pan). See Weak and strong forms in English.
+
+Etymology
+An is the older form (related to one, cognate to German ein; etc.).
+
+Usage
+The principles for use of the indefinite article are given above under § Use of articles.
+
+In additon to serving as an article, a and an are also used to express a proportioal relationship, such as "a dollar a day" or "$150 an ounce" or "A sweet a day helps you work, rest and play", although historically this use of "a" and "an" does not come from the same word as the articles.[9]
+
+Juncture loss
+In a process called juncture loss, the n has wandered back and forth between the indefinite article and words beginning with vowels over the history of the language, where for example what was once a nuncle is now an uncle. The Oxford English Dictionary gives such examples as smot hym on the hede with a nege tool from 1448 for smote him on the head with an edge tool, as well as a nox for an ox and a napple for an apple. Sometimes the change has been permanent. For example, a newt was once an ewt (earlier euft and eft), a nickname was once an eke-name, where eke means "extra" (as in eke out meaning "add to"), and in the other direction, a napron (meaning a little tablecloth, related to the word napkin) became an apron, and a naddre became an adder. The initial n in orange was also dropped through juncture loss, but this happened before the word was borrowed into English.
+
+Use of some
+"Some and any" redirects here. For the German pop duo, see Some & Any.
+The existential determinative (or determiner) some is sometimes used as a functional equivalent of a(n) with plural and uncountable nouns (also called a partitive). For example, Give me some apples, Give me some water (equivalent to the singular countable forms an apple and a glass of water). Grammatically this some is not required; it is also possible to use zero article: Give me apples, Give me water. The use of some in such cases implies some limited quantity. (Compare the forms unos/unas in Spanish, which are the plural of the indefinite article un/una.) Like the articles, some belongs to the class of "central determiners", which are mutually exclusive (so "the some boys" is ungrammatical).[10]
+
+The contrasting use of any in negative clauses proves that some is polarity-sensitive, and occurs in positive clauses: "I have some objections to make", vs. "I don't have any objections to make; "I have any objections to make" and "I don't have some objections to make" are ungrammatical.[11]
+
+Some can also have a more emphatic meaning: "some but not others" or "some but not many". For example, some people like football, while others prefer rugby, or I've got some money, but not enough to lend you any. It can also be used as an indefinite pronoun, not qualifying a noun at all (Give me some!) or followed by a prepositional phrase (I want some of your vodka); the same applies to any.
+
+Some can also be used with singular countable nouns, as in There is some person on the porch, which implies that the identity of the person is unknown to the speaker (which is not necessarily the case when a(n) is used). This usage is fairly informal, although singular countable some can also be found in formal contexts: We seek some value of x such that...
+
+When some is used just as an indefinite article, it is normally pronounced weakly, as [s(ə)m]. In other meanings, it is pronounced 
+[sʌm].
