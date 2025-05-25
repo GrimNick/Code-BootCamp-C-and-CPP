@@ -21,7 +21,7 @@ This bootcamp implements solutions for two core NLP tasks using basic vector alg
 
 
 
-## ⚙️ I chose the following programming environment during this bootcamp
+## I chose the following programming environment during this bootcamp
 
 - **Language**: C++
 - **Compiler**: G++ with C++11 support
@@ -35,11 +35,11 @@ This bootcamp implements solutions for two core NLP tasks using basic vector alg
 
 The required dictionary and input files are available via Google Drive:
 
-### 📌 Problem 1: Misspelled Words Detection
+### Problem 1: Misspelled Words Detection
 - [Dictionary File](https://drive.google.com/file/d/1uQ8HRCYOUmtF5zCNOhxMy7gbsL2QBwXM/view?usp=sharing)
 - [Input Text File](https://drive.google.com/file/d/1rai8WShc8QrT1gVjc0SwK1MKDXrwLJH3/view?usp=sharing)
 
-### 📌 Problem 2: Auto Suggestion System
+### Problem 2: Auto Suggestion System
 - [Word List (Sample from Google 10,000 English)](https://drive.google.com/file/d/1r3xWVOavkgsn4pKy6kzPU9pAj3tmeuom/view?usp=sharing)
 
 ---
