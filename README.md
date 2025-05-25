@@ -1,4 +1,4 @@
-# Code-BootCamp-C-and-CPP
+# Code-BootCamp-CPP
 
 ## 🔤 Spell Checker & Auto Suggestion System in C++
 
