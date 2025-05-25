@@ -2,7 +2,24 @@
 
 ## 🔤 Spell Checker & Auto Suggestion System in C++
 
-This bootcamp implements solutions for two core NLP tasks using basic vector algebra and set theory. 
+This bootcamp implements solutions for two core NLP tasks using basic vector algebra,cosine similarity and set theory. 
+
+<p align="center">
+  <img src="img/pg1.png" alt="pg1" width="800">
+
+---
+
+  <img src="img/pg2.png" alt="pg1" width="800">
+
+---
+
+  <img src="img/pg3.png" alt="pg1" width="800">
+
+---
+
+</p>
+
+
 
 ## ⚙️ I chose the following programming environment during this bootcamp
 
