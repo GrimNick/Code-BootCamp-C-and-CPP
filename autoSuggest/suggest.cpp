@@ -3,6 +3,7 @@
 #include <random>
 #include <fstream>
 #include <map>
+#include <algorithm>
 
 using namespace std;
 
@@ -81,10 +82,12 @@ vector<string> dictVectorizer(map<string, vector<string>> ngram,vector<string> k
 }
 
 
-map<string, int> getFregMap(vector<string> allnWords){
-    map<string, int> FregMap;
-    for(int i =0; i < allnWords.size();i++){
 
+map<string, int> getFregMap(vector<string> words){
+    map<string, int> FregMap;
+    //allnWords.size()
+    for(string word: words){
+        FregMap[word]++;
     }
     return FregMap;
 }
@@ -130,6 +133,18 @@ int main(){
         cout<<allnWords[i]<<" | ";
     }
 
+    //for sorting in descending
+    vector<pair<string,int>> vec(freqNGram.begin(),freqNGram.end());
+    sort(vec.begin(),vec.end(),[](const pair<string,int>& a,const pair<string,int>& b){
+        return a.second>b.second;
+    });
+
+    int stopper=0;
+    for(auto p:vec){
+        cout<<"Key : "<<p.first <<"| Value: "<<p.second<<endl;
+        if(stopper==10) break; //remove this to see value of all.
+        stopper++;
+    } 
     cout<<"\n\n**** End frequency of n gram words *****\n\n";
 
 
