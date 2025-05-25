@@ -26,6 +26,7 @@ The goal is to output all the words from the input text that are not present in 
 This problem has been solved and looks like this. (only 10 taken to not overshadow the entire console)
 <p align="center">
   <img src="../img/misspelled.png" alt="dict" width="500">
+    
     <em>Image: Output snippet</em>
 
 </p>
