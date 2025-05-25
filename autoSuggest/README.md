@@ -10,8 +10,8 @@ This problem requires us to use cosine similarity on n-gram vectors to find the 
 ---
 
 <p align="center">
-  <img src="../img/word10000.png" alt="word10000" width="600"><br>
-  <em>Image: 10000 text snippet</em>
+  <img src="../img/word10000.png" alt="word10000" width="500"><br>
+  <em>Image: 10000 dictionary text snippet</em>
 </p>
 
 ---
@@ -30,10 +30,8 @@ The goal is to output all the words (top 10) that are most suitable for the give
 
 This problem has been solved and looks like this. (only 10 taken to not overshadow the entire console)
 <p align="center">
-  <img src="../img/inputOutput.png" alt="inputOut" width="500">
-    
-   <em>Image: Input and Output snippet</em>
-
+  <img src="../img/inputOutput.png" alt="inputOut" width="500"><br>
+  <em>Image: Input and Output snippet</em>
 </p>
 
 ---
@@ -141,15 +139,13 @@ map<string, vector<string>> getn_grams(vector<string> words){
 
 <p align="center">
   <img src="../img/nGrams.png" alt="ngrams" width="800">
-    
-<em>Image: ngrams snippet</em>
+  <em>Image: ngrams snippet</em>
 
 </p>
 
 <p align="center">
   <img src="../img/frequency.png" alt="fre" width="800">
-    
-<em>Image: frequency snippet</em>
+  <em>Image: frequency snippet</em>
 
 </p>
 
