@@ -96,10 +96,11 @@ int main(){
     }
 
     vector<string> misSpelled_array = misSpelled(input_array,dict_array);
-    cout<<"\n *****Misspelled arrays *****:\n";
+    cout<<"\n *****Misspelled arrays (10) *****:\n";
 
-    
-    for(int j =0;j<misSpelled_array.size(); j++){
+
+    //do misSpelled_array.size() to see all
+    for(int j =0;j<10 ; j++){
         cout<<misSpelled_array[j]<<"\n";
     }
 
