@@ -5,19 +5,18 @@ This problem requires us to simply comare input.txt with dictionary.txt to find 
 ---
 
 <p align="center">
-  <img src="../img/dict.png" alt="dict" width="800">
-
-Image: Dictionary text snippet
-
----
-
-  <img src="../img/input.png" alt="input" width="800">
-
-Image: Input text snippet
-
----
-
+  <img src="../img/dict.png" alt="dict" width="800"><br>
+  <em>Image: Dictionary text snippet</em>
 </p>
+
+---
+
+<p align="center">
+  <img src="../img/input.png" alt="input" width="800"><br>
+  <em>Image: Input text snippet</em>
+</p>
+
+---
 
 
 ## Problem Description
