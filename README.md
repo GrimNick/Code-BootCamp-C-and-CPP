@@ -1,22 +1,16 @@
 # Code-BootCamp-C-and-CPP
 
-# 🔤 Spell Checker & Auto Suggestion System in C++
+## 🔤 Spell Checker & Auto Suggestion System in C++
 
-This project implements solutions for two core NLP tasks using **basic vector algebra and set theory**, developed during a C/C++ bootcamp. The problems addressed are:
+This bootcamp implements solutions for two core NLP tasks using basic vector algebra and set theory. 
 
-1. ✅ **Misspelled Word Detection from Text**
-2. ✨ **Auto Suggestion System for Incomplete Words**
+## ⚙️ I chose the following programming environment during this bootcamp
 
-> 🛠️ Built using modern C++11 in a multi-file, modular architecture. Ideal for beginner-level students learning NLP, data modeling, and vector operations in C++.
+- **Language**: C++
+- **Compiler**: G++ with C++11 support
+- **IDE**: [Visual Studio Code ](https://code.visualstudio.com/download)
 
----
-
-## ⚙️ Programming Environment
-
-- **Language**: C/C++
-- **Compiler**: GCC/G++ with C++11 support
-- **IDE Recommended**: [CLion](https://www.jetbrains.com/clion/) (free for academic use), CodeBlocks, or VSCode
-- **Structure**: Multi-file project using `.h` and `.cpp` separation
+>I chose these to learn from scratch and understand concepts properly.
 
 ---
 
@@ -25,25 +19,22 @@ This project implements solutions for two core NLP tasks using **basic vector al
 The required dictionary and input files are available via Google Drive:
 
 ### 📌 Problem 1: Misspelled Words Detection
-- 📘 [Dictionary File](https://drive.google.com/file/d/1uQ8HRCYOUmtF5zCNOhxMy7gbsL2QBwXM/view?usp=sharing)
-- 📝 [Input Text File](https://drive.google.com/file/d/1rai8WShc8QrT1gVjc0SwK1MKDXrwLJH3/view?usp=sharing)
+- [Dictionary File](https://drive.google.com/file/d/1uQ8HRCYOUmtF5zCNOhxMy7gbsL2QBwXM/view?usp=sharing)
+- [Input Text File](https://drive.google.com/file/d/1rai8WShc8QrT1gVjc0SwK1MKDXrwLJH3/view?usp=sharing)
 
 ### 📌 Problem 2: Auto Suggestion System
-- 📗 [Word List (Sample from Google 10,000 English)](https://drive.google.com/file/d/1r3xWVOavkgsn4pKy6kzPU9pAj3tmeuom/view?usp=sharing)
+- [Word List (Sample from Google 10,000 English)](https://drive.google.com/file/d/1r3xWVOavkgsn4pKy6kzPU9pAj3tmeuom/view?usp=sharing)
 
 ---
 
-## 🚀 Day 1: Misspelled Word Detection
+## 🧠 Credits
 
-### 🧠 Problem Description
-Detect all **misspelled words** in a given text by comparing it to a dictionary of correct English words.
+Bootcamp supervisor : [Er. Santa Basnet](https://github.com/santabasnet)
 
-### 🧮 Mathematical Model
-Let:
-- `Sd` = Set of words in the dictionary  
-- `St` = Set of words in the input text  
-- `Sw` = Set of misspelled words
+The effort that has been done by respected supervisor for preparing the entire infrastructure of bootcamp and problems has not only helped me learn the solutions to the problem but rather understand the implication of concepts such as map, vectors and other tools. This has gave me boost in capacity to understand the fundamentals of C and NLP. I have understood the basic building block of NLP that is set theory and vector theory.
 
-Then:
-```math
-Sw = St - Sd
+I would like to heavily recommend this bootcamp to any one who wants to learn C/C++ or other languages + learn about the implications of NLP and its basics.
+
+>For further details, please go through this [pdf](https://github.com/santabasnet/Code-BootCamp-C-and-CPP/blob/main/bootcamp-eec-doc.pdf).
+
+
